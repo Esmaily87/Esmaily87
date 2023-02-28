@@ -10,7 +10,7 @@ Aqui estão alguns trabalhos que realizei durante minha jornada profissional:
 3- https://www.citties.com.br
 
 
-- 👯 Trabalho com Análise e Visualização de Dados, um de meus trabalhos podem ser conferidos pelos Links:
+- 👯 Trabalho com Análise e Visualização de Dados, alguns de meus trabalhos podem ser conferidos pelos Links:
 
 1- https://app.powerbi.com/view?r=eyJrIjoiZGZkYmVjM2MtM2NmMi00NjkwLWIxNjktYTE4NzUxYWIyMDI0IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9
 
