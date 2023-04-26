@@ -9,6 +9,10 @@ Aqui estão alguns trabalhos que realizei durante minha jornada profissional:
 
 3- https://www.citties.com.br
 
+4- https://www.bolodevo.com.br (em edição)
+
+5. https://psicriativo.com.br (em edição)
+
 
 - 👯 Trabalho com Análise e Visualização de Dados, alguns de meus trabalhos podem ser conferidos pelos Links:
 
@@ -19,7 +23,7 @@ Aqui estão alguns trabalhos que realizei durante minha jornada profissional:
 3- https://app.powerbi.com/view?r=eyJrIjoiZjA3MDAzZDUtZDQ2Mi00MGViLWIwNWQtYjdlYzYwZTI1YTNjIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9
 
 
-- 🌱 Eu Atualmente estou cursando a Trilha do Ignite para ser Desenvolvedor Sênior ReactJS, React Native e NodeJS, em breve postarei meu projetos também.
+- 🌱 Atualmente estou cursando a Trilha do Ignite para ser Desenvolvedor Sênior ReactJS, React Native e NodeJS, em breve postarei meus projetos também.
 
 0- Loading...
 
