@@ -25,7 +25,7 @@ Aqui estão alguns trabalhos que realizei durante minha jornada profissional:
 
 - 🌱 Atualmente estou cursando a Trilha do Ignite para ser Desenvolvedor Sênior ReactJS, React Native e NodeJS, em breve postarei meus projetos também.
 
-0- Loading...
+1 - App Todo - Gerenciamento de Tarefas https://todo-list-xi-roan.vercel.app/
 
 <!--
 
