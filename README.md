@@ -4,7 +4,6 @@ I'm a Business Intelligence Analyst passionate about using data, technology, and
 
 🚀 I specialize in:
 - Designing KPIs and dashboards using Power BI, Python, SQL, and Excel
-- Creating data-driven web applications with React.js, Node.js, and APIs
 - Managing innovation projects with Agile and PMBOK methodologies
 - Analyzing contracts and metrics for R&D&I initiatives
 - Building indicators for public management and business innovation
